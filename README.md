@@ -1,6 +1,6 @@
 #  Anny Elly
 
-**`Desenvolvedor Full Stack`**
+**`Ciências da Computação`**
 
 Me chamo **Anny Elly Pantoja**, tenho 18 anos. Concluí o **ensino médio técnico** na área de TI, onde tive meu primeiro contato com a programação. Atualmente, estou cursando **Ciências da Computação na [FIAP](https://www.fiap.com.br/graduacao/bacharelado/ciencia-da-computacao-data-science-ia-platform-engineering/)**.
 
